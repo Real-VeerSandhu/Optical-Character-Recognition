@@ -1,2 +1,2 @@
 # OCR
-A Demo of OCR using GCP
+A Demo of OCR using GCP Vision
