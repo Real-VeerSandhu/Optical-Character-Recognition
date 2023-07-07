@@ -24,30 +24,18 @@ client
         y: vertex.y
       }));
       return { text: description, 
-        boundingBox1: locations[0],
-        boundingBox2: locations[1],
-        boundingBox3: locations[2],
-        boundingBox4: locations[3],
-
+        topLeft: locations[0], // Top-left vertex
+        topRight: locations[1],
+        bottomRight: locations[2],
+        bottomLeft: locations[3],
      };
+        // Top-left vertex
+        // Top-right vertex
+        // Bottom-right vertex
+        // Bottom-left vertex
     });
     console.log(textsWithBoundingBoxes);
   })
   .catch(err => {
     console.error('Error performing OCR:', err);
   });
-
-
-//   client
-//   .textDetection({
-//     image: { content: imageFile },
-//   })
-//   .then(response => {
-//     const textAnnotations = response[0].textAnnotations;
-//     // Extract bounding boxes from the detected text annotations
-//     const boundingBoxes = textAnnotations.map(annotation => annotation.boundingPoly);
-//     console.log(boundingBoxes);
-//   })
-//   .catch(err => {
-//     console.error('Error performing OCR:', err);
-//   });
