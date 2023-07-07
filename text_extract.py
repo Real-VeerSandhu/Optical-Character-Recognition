@@ -1,3 +1,5 @@
+# Text Extraction General
+
 from google.cloud import vision
 
 def detect_text(path):

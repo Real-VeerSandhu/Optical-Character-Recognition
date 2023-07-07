@@ -1,13 +1,12 @@
+// Full Text Extraction + Bounding Boxes Script
+
 const vision = require('@google-cloud/vision');
 const fs = require('fs');
 
-// Create a client for the Cloud Vision API
 const client = new vision.ImageAnnotatorClient();
 
-// Read the image file from the file system
 const imageFile = fs.readFileSync('./resources/image1_edit.png');
 
-// Perform text detection
 client
   .textDetection({
     image: { content: imageFile },

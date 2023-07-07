@@ -1,3 +1,5 @@
+# Label Detection
+
 import os
 from google.cloud import vision
 

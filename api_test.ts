@@ -1,3 +1,5 @@
+// Text Extraction (All)
+
 async function extract_text(filePath) {
     const vision = require('@google-cloud/vision');
   
