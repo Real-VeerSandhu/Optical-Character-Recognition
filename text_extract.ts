@@ -5,9 +5,23 @@ async function extract_text(filePath) {
   
     const [result] = await client.textDetection(filePath);
     const detections = result.textAnnotations;
-    console.log('Text:');
-    detections.forEach(text => console.log(text));
-}
-  
+    // console.log('Text:');
+    // detections.forEach(text => console.log(text));
 
-extract_text('./resources/wakeupcat.jpg')
+
+    return detections
+}
+
+// boundingPoly
+
+extract_text('./resources/image1_edit.png')
+.then(r => {
+console.log('result: ', r);
+
+})
+.catch(e => {
+    console.log('error: ', e);
+    
+});
+
+
