@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const client = new vision.ImageAnnotatorClient();
 
-const imageFile = fs.readFileSync('./resources/image1_edit.png');
+const imageFile = fs.readFileSync('./resources/image2_edit.png');
 
 client
   .textDetection({
@@ -36,14 +36,14 @@ client
     console.log(typeof textsWithBoundingBoxes);
 
     // save textsWithBoundingBoxes as JSON
-    // const dictstring = JSON.stringify(textsWithBoundingBoxes);
-    // fs.writeFile("output.json", dictstring, (err) => {
-    // if (err) {
-    //     console.error(err);
-    //     return;
-    // }
-    // console.log("File has been successfully saved.");
-    // });
+    const dictstring = JSON.stringify(textsWithBoundingBoxes);
+    fs.writeFile("output_test2.json", dictstring, (err) => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log("File has been successfully saved.");
+    });
 
     
   })

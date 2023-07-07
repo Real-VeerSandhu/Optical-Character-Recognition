@@ -1,0 +1,3469 @@
+{
+
+"data":[{"text":"Part","topLeft":{"x":6,"y":8},"topRight":{"x":36,"y":8},"bottomRight":{"x":36,"y":22},"bottomLeft":{"x":6,"y":22}},
+{"text":"Number","topLeft":{"x":43,"y":8},"topRight":{"x":104,"y":9},"bottomRight":{"x":104,"y":24},"bottomLeft":{"x":43,"y":23}},
+{"text":"3922X","topLeft":{"x":0,"y":81},"topRight":{"x":50,"y":81},"bottomRight":{"x":50,"y":94},"bottomLeft":{"x":0,"y":94}},
+{"text":"ABP4N42A1657VB","topLeft":{"x":0,"y":241},"topRight":{"x":137,"y":241},"bottomRight":{"x":137,"y":255},"bottomLeft":{"x":0,"y":255}},
+{"text":"Cross","topLeft":{"x":5,"y":159},"topRight":{"x":47,"y":159},"bottomRight":{"x":47,"y":177},"bottomLeft":{"x":5,"y":177}},
+{"text":"-","topLeft":{"x":49,"y":159},"topRight":{"x":54,"y":159},"bottomRight":{"x":54,"y":177},"bottomLeft":{"x":49,"y":177}},
+{
+    "text": "References",
+    "topLeft": {
+        "x": 54,
+        "y": 159
+    },
+    "topRight": {
+        "x": 144,
+        "y": 159
+    },
+    "bottomRight": {
+        "x": 144,
+        "y": 177
+    },
+    "bottomLeft": {
+        "x": 54,
+        "y": 177
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 150,
+        "y": 159
+    },
+    "topRight": {
+        "x": 156,
+        "y": 159
+    },
+    "bottomRight": {
+        "x": 156,
+        "y": 177
+    },
+    "bottomLeft": {
+        "x": 150,
+        "y": 177
+    }
+},
+{
+    "text": "59",
+    "topLeft": {
+        "x": 155,
+        "y": 159
+    },
+    "topRight": {
+        "x": 174,
+        "y": 159
+    },
+    "bottomRight": {
+        "x": 174,
+        "y": 177
+    },
+    "bottomLeft": {
+        "x": 155,
+        "y": 177
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 174,
+        "y": 159
+    },
+    "topRight": {
+        "x": 180,
+        "y": 159
+    },
+    "bottomRight": {
+        "x": 180,
+        "y": 177
+    },
+    "bottomLeft": {
+        "x": 174,
+        "y": 177
+    }
+},
+{
+    "text": "MWI",
+    "topLeft": {
+        "x": 204,
+        "y": 160
+    },
+    "topRight": {
+        "x": 242,
+        "y": 160
+    },
+    "bottomRight": {
+        "x": 242,
+        "y": 174
+    },
+    "bottomLeft": {
+        "x": 204,
+        "y": 174
+    }
+},
+{
+    "text": "Manufacturer",
+    "topLeft": {
+        "x": 270,
+        "y": 161
+    },
+    "topRight": {
+        "x": 375,
+        "y": 161
+    },
+    "bottomRight": {
+        "x": 375,
+        "y": 175
+    },
+    "bottomLeft": {
+        "x": 270,
+        "y": 175
+    }
+},
+{
+    "text": "ATX360R",
+    "topLeft": {
+        "x": 0,
+        "y": 313
+    },
+    "topRight": {
+        "x": 68,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 68,
+        "y": 326
+    },
+    "bottomLeft": {
+        "x": 0,
+        "y": 326
+    }
+},
+{
+    "text": "10009830",
+    "topLeft": {
+        "x": 0,
+        "y": 383
+    },
+    "topRight": {
+        "x": 78,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 78,
+        "y": 397
+    },
+    "bottomLeft": {
+        "x": 0,
+        "y": 397
+    }
+},
+{
+    "text": "10037763",
+    "topLeft": {
+        "x": 3,
+        "y": 455
+    },
+    "topRight": {
+        "x": 77,
+        "y": 454
+    },
+    "bottomRight": {
+        "x": 77,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 3,
+        "y": 469
+    }
+},
+{
+    "text": "123207",
+    "topLeft": {
+        "x": 0,
+        "y": 488
+    },
+    "topRight": {
+        "x": 58,
+        "y": 488
+    },
+    "bottomRight": {
+        "x": 58,
+        "y": 501
+    },
+    "bottomLeft": {
+        "x": 0,
+        "y": 501
+    }
+},
+{
+    "text": "16792",
+    "topLeft": {
+        "x": -2,
+        "y": 521
+    },
+    "topRight": {
+        "x": 46,
+        "y": 520
+    },
+    "bottomRight": {
+        "x": 46,
+        "y": 534
+    },
+    "bottomLeft": {
+        "x": -2,
+        "y": 535
+    }
+},
+{
+    "text": "MWI",
+    "topLeft": {
+        "x": 204,
+        "y": 7
+    },
+    "topRight": {
+        "x": 241,
+        "y": 7
+    },
+    "bottomRight": {
+        "x": 241,
+        "y": 23
+    },
+    "bottomLeft": {
+        "x": 204,
+        "y": 23
+    }
+},
+{
+    "text": "Manufacturer",
+    "topLeft": {
+        "x": 270,
+        "y": 9
+    },
+    "topRight": {
+        "x": 375,
+        "y": 9
+    },
+    "bottomRight": {
+        "x": 375,
+        "y": 23
+    },
+    "bottomLeft": {
+        "x": 270,
+        "y": 23
+    }
+},
+{
+    "text": "FLT4400B",
+    "topLeft": {
+        "x": -2,
+        "y": 591
+    },
+    "topRight": {
+        "x": 75,
+        "y": 591
+    },
+    "bottomRight": {
+        "x": 75,
+        "y": 605
+    },
+    "bottomLeft": {
+        "x": -2,
+        "y": 605
+    }
+},
+{
+    "text": "GUNITE",
+    "topLeft": {
+        "x": 263,
+        "y": 80
+    },
+    "topRight": {
+        "x": 324,
+        "y": 80
+    },
+    "bottomRight": {
+        "x": 324,
+        "y": 95
+    },
+    "bottomLeft": {
+        "x": 263,
+        "y": 95
+    }
+},
+{
+    "text": "CORPORATION",
+    "topLeft": {
+        "x": 330,
+        "y": 80
+    },
+    "topRight": {
+        "x": 446,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 446,
+        "y": 96
+    },
+    "bottomLeft": {
+        "x": 330,
+        "y": 95
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 454,
+        "y": 80
+    },
+    "topRight": {
+        "x": 459,
+        "y": 80
+    },
+    "bottomRight": {
+        "x": 459,
+        "y": 95
+    },
+    "bottomLeft": {
+        "x": 454,
+        "y": 95
+    }
+},
+{
+    "text": "GUNIT",
+    "topLeft": {
+        "x": 461,
+        "y": 80
+    },
+    "topRight": {
+        "x": 509,
+        "y": 80
+    },
+    "bottomRight": {
+        "x": 509,
+        "y": 96
+    },
+    "bottomLeft": {
+        "x": 461,
+        "y": 96
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 510,
+        "y": 81
+    },
+    "topRight": {
+        "x": 515,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 515,
+        "y": 96
+    },
+    "bottomLeft": {
+        "x": 510,
+        "y": 96
+    }
+},
+{
+    "text": "ALLIANCE",
+    "topLeft": {
+        "x": 262,
+        "y": 241
+    },
+    "topRight": {
+        "x": 342,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 342,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 262,
+        "y": 257
+    }
+},
+{
+    "text": "TRUCK",
+    "topLeft": {
+        "x": 347,
+        "y": 241
+    },
+    "topRight": {
+        "x": 401,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 401,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 347,
+        "y": 257
+    }
+},
+{
+    "text": "PARTS",
+    "topLeft": {
+        "x": 407,
+        "y": 241
+    },
+    "topRight": {
+        "x": 453,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 453,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 407,
+        "y": 257
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 459,
+        "y": 241
+    },
+    "topRight": {
+        "x": 464,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 464,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 459,
+        "y": 257
+    }
+},
+{
+    "text": "ABPXX",
+    "topLeft": {
+        "x": 465,
+        "y": 241
+    },
+    "topRight": {
+        "x": 516,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 516,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 465,
+        "y": 257
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 518,
+        "y": 241
+    },
+    "topRight": {
+        "x": 523,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 523,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 518,
+        "y": 257
+    }
+},
+{
+    "text": "ALLTRUX",
+    "topLeft": {
+        "x": 262,
+        "y": 313
+    },
+    "topRight": {
+        "x": 333,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 333,
+        "y": 329
+    },
+    "bottomLeft": {
+        "x": 262,
+        "y": 329
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 340,
+        "y": 313
+    },
+    "topRight": {
+        "x": 345,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 345,
+        "y": 329
+    },
+    "bottomLeft": {
+        "x": 340,
+        "y": 329
+    }
+},
+{
+    "text": "ATRUX",
+    "topLeft": {
+        "x": 346,
+        "y": 313
+    },
+    "topRight": {
+        "x": 396,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 396,
+        "y": 329
+    },
+    "bottomLeft": {
+        "x": 346,
+        "y": 329
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 398,
+        "y": 313
+    },
+    "topRight": {
+        "x": 404,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 404,
+        "y": 329
+    },
+    "bottomLeft": {
+        "x": 398,
+        "y": 329
+    }
+},
+{
+    "text": "CONMET",
+    "topLeft": {
+        "x": 263,
+        "y": 380
+    },
+    "topRight": {
+        "x": 333,
+        "y": 381
+    },
+    "bottomRight": {
+        "x": 333,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 263,
+        "y": 398
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 339,
+        "y": 382
+    },
+    "topRight": {
+        "x": 345,
+        "y": 382
+    },
+    "bottomRight": {
+        "x": 345,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 339,
+        "y": 399
+    }
+},
+{
+    "text": "CONMT",
+    "topLeft": {
+        "x": 345,
+        "y": 382
+    },
+    "topRight": {
+        "x": 404,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 404,
+        "y": 400
+    },
+    "bottomLeft": {
+        "x": 345,
+        "y": 399
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 404,
+        "y": 383
+    },
+    "topRight": {
+        "x": 410,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 410,
+        "y": 400
+    },
+    "bottomLeft": {
+        "x": 404,
+        "y": 400
+    }
+},
+{
+    "text": "CON",
+    "topLeft": {
+        "x": 262,
+        "y": 455
+    },
+    "topRight": {
+        "x": 297,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 297,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 262,
+        "y": 468
+    }
+},
+{
+    "text": "MET",
+    "topLeft": {
+        "x": 307,
+        "y": 453
+    },
+    "topRight": {
+        "x": 332,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 332,
+        "y": 469
+    },
+    "bottomLeft": {
+        "x": 307,
+        "y": 469
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 338,
+        "y": 453
+    },
+    "topRight": {
+        "x": 343,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 343,
+        "y": 469
+    },
+    "bottomLeft": {
+        "x": 338,
+        "y": 469
+    }
+},
+{
+    "text": "CONMT",
+    "topLeft": {
+        "x": 345,
+        "y": 453
+    },
+    "topRight": {
+        "x": 403,
+        "y": 454
+    },
+    "bottomRight": {
+        "x": 403,
+        "y": 471
+    },
+    "bottomLeft": {
+        "x": 345,
+        "y": 470
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 404,
+        "y": 454
+    },
+    "topRight": {
+        "x": 409,
+        "y": 454
+    },
+    "bottomRight": {
+        "x": 409,
+        "y": 470
+    },
+    "bottomLeft": {
+        "x": 404,
+        "y": 470
+    }
+},
+{
+    "text": "DAYTON",
+    "topLeft": {
+        "x": 262,
+        "y": 487
+    },
+    "topRight": {
+        "x": 326,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 326,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 262,
+        "y": 503
+    }
+},
+{
+    "text": "PARTS",
+    "topLeft": {
+        "x": 333,
+        "y": 487
+    },
+    "topRight": {
+        "x": 379,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 379,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 333,
+        "y": 503
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 380,
+        "y": 487
+    },
+    "topRight": {
+        "x": 384,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 384,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 380,
+        "y": 503
+    }
+},
+{
+    "text": "INC",
+    "topLeft": {
+        "x": 392,
+        "y": 487
+    },
+    "topRight": {
+        "x": 419,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 419,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 392,
+        "y": 503
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 422,
+        "y": 487
+    },
+    "topRight": {
+        "x": 426,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 426,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 422,
+        "y": 503
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 434,
+        "y": 487
+    },
+    "topRight": {
+        "x": 439,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 439,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 434,
+        "y": 503
+    }
+},
+{
+    "text": "DYTPR",
+    "topLeft": {
+        "x": 440,
+        "y": 487
+    },
+    "topRight": {
+        "x": 492,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 492,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 440,
+        "y": 504
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 494,
+        "y": 488
+    },
+    "topRight": {
+        "x": 499,
+        "y": 488
+    },
+    "bottomRight": {
+        "x": 499,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 494,
+        "y": 504
+    }
+},
+{
+    "text": "DURABRAKE",
+    "topLeft": {
+        "x": 263,
+        "y": 520
+    },
+    "topRight": {
+        "x": 354,
+        "y": 521
+    },
+    "bottomRight": {
+        "x": 354,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 263,
+        "y": 536
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 361,
+        "y": 522
+    },
+    "topRight": {
+        "x": 366,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 366,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 361,
+        "y": 537
+    }
+},
+{
+    "text": "DURAM",
+    "topLeft": {
+        "x": 367,
+        "y": 521
+    },
+    "topRight": {
+        "x": 422,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 422,
+        "y": 538
+    },
+    "bottomLeft": {
+        "x": 367,
+        "y": 537
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 424,
+        "y": 523
+    },
+    "topRight": {
+        "x": 429,
+        "y": 523
+    },
+    "bottomRight": {
+        "x": 429,
+        "y": 538
+    },
+    "bottomLeft": {
+        "x": 424,
+        "y": 538
+    }
+},
+{
+    "text": "FLEETRITE",
+    "topLeft": {
+        "x": 263,
+        "y": 590
+    },
+    "topRight": {
+        "x": 348,
+        "y": 591
+    },
+    "bottomRight": {
+        "x": 348,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 263,
+        "y": 606
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 354,
+        "y": 592
+    },
+    "topRight": {
+        "x": 359,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 359,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 354,
+        "y": 607
+    }
+},
+{
+    "text": "FLTRT",
+    "topLeft": {
+        "x": 360,
+        "y": 592
+    },
+    "topRight": {
+        "x": 409,
+        "y": 593
+    },
+    "bottomRight": {
+        "x": 409,
+        "y": 608
+    },
+    "bottomLeft": {
+        "x": 360,
+        "y": 607
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 409,
+        "y": 592
+    },
+    "topRight": {
+        "x": 415,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 415,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 409,
+        "y": 607
+    }
+},
+{
+    "text": "Description",
+    "topLeft": {
+        "x": 683,
+        "y": 7
+    },
+    "topRight": {
+        "x": 769,
+        "y": 7
+    },
+    "bottomRight": {
+        "x": 769,
+        "y": 25
+    },
+    "bottomLeft": {
+        "x": 683,
+        "y": 25
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 677,
+        "y": 81
+    },
+    "topRight": {
+        "x": 725,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 725,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 97
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 732,
+        "y": 81
+    },
+    "topRight": {
+        "x": 777,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 732,
+        "y": 97
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 779,
+        "y": 81
+    },
+    "topRight": {
+        "x": 783,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 783,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 779,
+        "y": 97
+    }
+},
+{
+    "text": "OUTBOARD",
+    "topLeft": {
+        "x": 791,
+        "y": 81
+    },
+    "topRight": {
+        "x": 880,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 880,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 791,
+        "y": 97
+    }
+},
+{
+    "text": "MOUNT",
+    "topLeft": {
+        "x": 885,
+        "y": 81
+    },
+    "topRight": {
+        "x": 944,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 944,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 885,
+        "y": 97
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 943,
+        "y": 81
+    },
+    "topRight": {
+        "x": 946,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 946,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 943,
+        "y": 97
+    }
+},
+{
+    "text": "16.50",
+    "topLeft": {
+        "x": 955,
+        "y": 81
+    },
+    "topRight": {
+        "x": 999,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 999,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 955,
+        "y": 97
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 1005,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1016,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1016,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1005,
+        "y": 97
+    }
+},
+{
+    "text": "7.00",
+    "topLeft": {
+        "x": 1022,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1058,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1058,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1022,
+        "y": 97
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 1065,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1113,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1113,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1065,
+        "y": 97
+    }
+},
+{
+    "text": "SIZE",
+    "topLeft": {
+        "x": 1119,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1153,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1153,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1119,
+        "y": 97
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1155,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1158,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1158,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1155,
+        "y": 97
+    }
+},
+{
+    "text": "10.56",
+    "topLeft": {
+        "x": 1166,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1211,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1211,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1166,
+        "y": 97
+    }
+},
+{
+    "text": "OVERALL",
+    "topLeft": {
+        "x": 1219,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1292,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1292,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1219,
+        "y": 97
+    }
+},
+{
+    "text": "DEPTH",
+    "topLeft": {
+        "x": 1299,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1349,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1349,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1299,
+        "y": 97
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1352,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1355,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1355,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1352,
+        "y": 97
+    }
+},
+{
+    "text": "11.3",
+    "topLeft": {
+        "x": 1363,
+        "y": 81
+    },
+    "topRight": {
+        "x": 1395,
+        "y": 81
+    },
+    "bottomRight": {
+        "x": 1395,
+        "y": 97
+    },
+    "bottomLeft": {
+        "x": 1363,
+        "y": 97
+    }
+},
+{
+    "text": "Description",
+    "topLeft": {
+        "x": 683,
+        "y": 159
+    },
+    "topRight": {
+        "x": 769,
+        "y": 159
+    },
+    "bottomRight": {
+        "x": 769,
+        "y": 176
+    },
+    "bottomLeft": {
+        "x": 683,
+        "y": 176
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 677,
+        "y": 241
+    },
+    "topRight": {
+        "x": 723,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 723,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 724,
+        "y": 241
+    },
+    "topRight": {
+        "x": 728,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 728,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 724,
+        "y": 257
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 736,
+        "y": 241
+    },
+    "topRight": {
+        "x": 785,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 785,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 736,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 786,
+        "y": 241
+    },
+    "topRight": {
+        "x": 790,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 790,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 786,
+        "y": 257
+    }
+},
+{
+    "text": "10",
+    "topLeft": {
+        "x": 797,
+        "y": 241
+    },
+    "topRight": {
+        "x": 816,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 816,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 797,
+        "y": 257
+    }
+},
+{
+    "text": "HOLE",
+    "topLeft": {
+        "x": 823,
+        "y": 241
+    },
+    "topRight": {
+        "x": 867,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 867,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 823,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 868,
+        "y": 241
+    },
+    "topRight": {
+        "x": 871,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 871,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 868,
+        "y": 257
+    }
+},
+{
+    "text": "11.25",
+    "topLeft": {
+        "x": 880,
+        "y": 241
+    },
+    "topRight": {
+        "x": 924,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 924,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 880,
+        "y": 257
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 931,
+        "y": 241
+    },
+    "topRight": {
+        "x": 947,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 947,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 931,
+        "y": 257
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 950,
+        "y": 241
+    },
+    "topRight": {
+        "x": 953,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 953,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 950,
+        "y": 257
+    }
+},
+{
+    "text": "BC",
+    "topLeft": {
+        "x": 961,
+        "y": 241
+    },
+    "topRight": {
+        "x": 980,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 980,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 961,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 984,
+        "y": 241
+    },
+    "topRight": {
+        "x": 987,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 987,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 984,
+        "y": 257
+    }
+},
+{
+    "text": "8.78",
+    "topLeft": {
+        "x": 995,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1029,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1029,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 995,
+        "y": 257
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 1037,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1052,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1052,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1037,
+        "y": 257
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 1056,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1059,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1059,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1056,
+        "y": 257
+    }
+},
+{
+    "text": "PILOT",
+    "topLeft": {
+        "x": 1066,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1115,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1115,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1066,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1112,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1116,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1116,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1112,
+        "y": 257
+    }
+},
+{
+    "text": "FOR",
+    "topLeft": {
+        "x": 1124,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1157,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1157,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1124,
+        "y": 257
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 1163,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1199,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1199,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1163,
+        "y": 257
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 1203,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1215,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1215,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1203,
+        "y": 257
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 1221,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1230,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1230,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1221,
+        "y": 257
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 1237,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1252,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1252,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1237,
+        "y": 257
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 1256,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1259,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1259,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1256,
+        "y": 257
+    }
+},
+{
+    "text": "BRAKES",
+    "topLeft": {
+        "x": 1266,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1324,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1324,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1266,
+        "y": 257
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1326,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1329,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1329,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1326,
+        "y": 257
+    }
+},
+{
+    "text": "BAL",
+    "topLeft": {
+        "x": 1337,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1365,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1365,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1337,
+        "y": 257
+    }
+},
+{
+    "text": "...",
+    "topLeft": {
+        "x": 1367,
+        "y": 241
+    },
+    "topRight": {
+        "x": 1386,
+        "y": 241
+    },
+    "bottomRight": {
+        "x": 1386,
+        "y": 257
+    },
+    "bottomLeft": {
+        "x": 1367,
+        "y": 257
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 677,
+        "y": 313
+    },
+    "topRight": {
+        "x": 723,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 723,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 330
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 725,
+        "y": 313
+    },
+    "topRight": {
+        "x": 729,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 729,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 725,
+        "y": 330
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 736,
+        "y": 313
+    },
+    "topRight": {
+        "x": 785,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 785,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 736,
+        "y": 330
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 791,
+        "y": 313
+    },
+    "topRight": {
+        "x": 826,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 826,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 791,
+        "y": 330
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 831,
+        "y": 313
+    },
+    "topRight": {
+        "x": 842,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 842,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 831,
+        "y": 330
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 848,
+        "y": 313
+    },
+    "topRight": {
+        "x": 858,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 858,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 848,
+        "y": 330
+    }
+},
+{
+    "text": "(",
+    "topLeft": {
+        "x": 864,
+        "y": 313
+    },
+    "topRight": {
+        "x": 869,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 869,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 864,
+        "y": 330
+    }
+},
+{
+    "text": "16",
+    "topLeft": {
+        "x": 871,
+        "y": 313
+    },
+    "topRight": {
+        "x": 888,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 888,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 871,
+        "y": 330
+    }
+},
+{
+    "text": "PER",
+    "topLeft": {
+        "x": 896,
+        "y": 313
+    },
+    "topRight": {
+        "x": 924,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 924,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 896,
+        "y": 330
+    }
+},
+{
+    "text": "PALLET",
+    "topLeft": {
+        "x": 931,
+        "y": 313
+    },
+    "topRight": {
+        "x": 988,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 988,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 931,
+        "y": 330
+    }
+},
+{
+    "text": ")",
+    "topLeft": {
+        "x": 989,
+        "y": 313
+    },
+    "topRight": {
+        "x": 994,
+        "y": 313
+    },
+    "bottomRight": {
+        "x": 994,
+        "y": 330
+    },
+    "bottomLeft": {
+        "x": 989,
+        "y": 330
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 676,
+        "y": 383
+    },
+    "topRight": {
+        "x": 726,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 726,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 676,
+        "y": 399
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 732,
+        "y": 383
+    },
+    "topRight": {
+        "x": 777,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 732,
+        "y": 399
+    }
+},
+{
+    "text": "-",
+    "topLeft": {
+        "x": 779,
+        "y": 383
+    },
+    "topRight": {
+        "x": 784,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 784,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 779,
+        "y": 399
+    }
+},
+{
+    "text": "REAR",
+    "topLeft": {
+        "x": 786,
+        "y": 383
+    },
+    "topRight": {
+        "x": 825,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 825,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 786,
+        "y": 399
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 826,
+        "y": 383
+    },
+    "topRight": {
+        "x": 829,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 829,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 826,
+        "y": 399
+    }
+},
+{
+    "text": "TRUTURN",
+    "topLeft": {
+        "x": 836,
+        "y": 383
+    },
+    "topRight": {
+        "x": 910,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 910,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 836,
+        "y": 399
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 913,
+        "y": 383
+    },
+    "topRight": {
+        "x": 916,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 916,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 913,
+        "y": 399
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 925,
+        "y": 383
+    },
+    "topRight": {
+        "x": 960,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 960,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 925,
+        "y": 399
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 966,
+        "y": 383
+    },
+    "topRight": {
+        "x": 982,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 982,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 966,
+        "y": 399
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 985,
+        "y": 383
+    },
+    "topRight": {
+        "x": 988,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 988,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 985,
+        "y": 399
+    }
+},
+{
+    "text": "DIAX",
+    "topLeft": {
+        "x": 996,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1038,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1038,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 996,
+        "y": 399
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 1043,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1053,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1053,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1043,
+        "y": 399
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 1060,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1076,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1076,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1060,
+        "y": 399
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 1078,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1081,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1081,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1078,
+        "y": 399
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1085,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1088,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1088,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1085,
+        "y": 399
+    }
+},
+{
+    "text": "7.56",
+    "topLeft": {
+        "x": 1096,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1130,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1130,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1096,
+        "y": 399
+    }
+},
+{
+    "text": "SURFACE",
+    "topLeft": {
+        "x": 1138,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1206,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1206,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1138,
+        "y": 399
+    }
+},
+{
+    "text": "WIDTH",
+    "topLeft": {
+        "x": 1213,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1267,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1267,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1213,
+        "y": 399
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1270,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1274,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1274,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1270,
+        "y": 399
+    }
+},
+{
+    "text": "8.78",
+    "topLeft": {
+        "x": 1281,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1316,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1316,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1281,
+        "y": 399
+    }
+},
+{
+    "text": "PILO",
+    "topLeft": {
+        "x": 1323,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1362,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1362,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1323,
+        "y": 399
+    }
+},
+{
+    "text": "...",
+    "topLeft": {
+        "x": 1362,
+        "y": 383
+    },
+    "topRight": {
+        "x": 1382,
+        "y": 383
+    },
+    "bottomRight": {
+        "x": 1382,
+        "y": 399
+    },
+    "bottomLeft": {
+        "x": 1362,
+        "y": 399
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 677,
+        "y": 455
+    },
+    "topRight": {
+        "x": 726,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 726,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 468
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 733,
+        "y": 455
+    },
+    "topRight": {
+        "x": 777,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 733,
+        "y": 468
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 785,
+        "y": 455
+    },
+    "topRight": {
+        "x": 818,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 818,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 785,
+        "y": 468
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 825,
+        "y": 455
+    },
+    "topRight": {
+        "x": 836,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 836,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 825,
+        "y": 468
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 842,
+        "y": 455
+    },
+    "topRight": {
+        "x": 850,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 850,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 842,
+        "y": 468
+    }
+},
+{
+    "text": "CMI",
+    "topLeft": {
+        "x": 857,
+        "y": 455
+    },
+    "topRight": {
+        "x": 886,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 886,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 857,
+        "y": 468
+    }
+},
+{
+    "text": "REAR",
+    "topLeft": {
+        "x": 894,
+        "y": 455
+    },
+    "topRight": {
+        "x": 934,
+        "y": 455
+    },
+    "bottomRight": {
+        "x": 934,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 894,
+        "y": 468
+    }
+},
+{
+    "text": "URN",
+    "topLeft": {
+        "x": 981,
+        "y": 453
+    },
+    "topRight": {
+        "x": 1010,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 1010,
+        "y": 469
+    },
+    "bottomLeft": {
+        "x": 981,
+        "y": 469
+    }
+},
+{
+    "text": "LITE",
+    "topLeft": {
+        "x": 1018,
+        "y": 453
+    },
+    "topRight": {
+        "x": 1053,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 1053,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 1018,
+        "y": 468
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1056,
+        "y": 453
+    },
+    "topRight": {
+        "x": 1060,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 1060,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 1056,
+        "y": 468
+    }
+},
+{
+    "text": "BSN",
+    "topLeft": {
+        "x": 1067,
+        "y": 453
+    },
+    "topRight": {
+        "x": 1094,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 1094,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 1067,
+        "y": 468
+    }
+},
+{
+    "text": "COMPATIBLE",
+    "topLeft": {
+        "x": 1101,
+        "y": 453
+    },
+    "topRight": {
+        "x": 1201,
+        "y": 453
+    },
+    "bottomRight": {
+        "x": 1201,
+        "y": 468
+    },
+    "bottomLeft": {
+        "x": 1101,
+        "y": 468
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 677,
+        "y": 487
+    },
+    "topRight": {
+        "x": 724,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 724,
+        "y": 505
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 505
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 731,
+        "y": 487
+    },
+    "topRight": {
+        "x": 777,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 731,
+        "y": 504
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 779,
+        "y": 487
+    },
+    "topRight": {
+        "x": 782,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 782,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 779,
+        "y": 504
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 790,
+        "y": 487
+    },
+    "topRight": {
+        "x": 825,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 825,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 790,
+        "y": 504
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 830,
+        "y": 487
+    },
+    "topRight": {
+        "x": 842,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 842,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 830,
+        "y": 504
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 848,
+        "y": 487
+    },
+    "topRight": {
+        "x": 857,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 857,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 848,
+        "y": 504
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 859,
+        "y": 487
+    },
+    "topRight": {
+        "x": 862,
+        "y": 487
+    },
+    "bottomRight": {
+        "x": 862,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 859,
+        "y": 504
+    }
+},
+{
+    "text": "10-1.00",
+    "topLeft": {
+        "x": 870,
+        "y": 486
+    },
+    "topRight": {
+        "x": 932,
+        "y": 486
+    },
+    "bottomRight": {
+        "x": 932,
+        "y": 504
+    },
+    "bottomLeft": {
+        "x": 870,
+        "y": 504
+    }
+},
+{
+    "text": "BOLT",
+    "topLeft": {
+        "x": 937,
+        "y": 486
+    },
+    "topRight": {
+        "x": 979,
+        "y": 486
+    },
+    "bottomRight": {
+        "x": 979,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 937,
+        "y": 503
+    }
+},
+{
+    "text": "HOLES",
+    "topLeft": {
+        "x": 985,
+        "y": 486
+    },
+    "topRight": {
+        "x": 1037,
+        "y": 486
+    },
+    "bottomRight": {
+        "x": 1037,
+        "y": 503
+    },
+    "bottomLeft": {
+        "x": 985,
+        "y": 503
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 677,
+        "y": 522
+    },
+    "topRight": {
+        "x": 726,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 726,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 677,
+        "y": 537
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 733,
+        "y": 522
+    },
+    "topRight": {
+        "x": 777,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 733,
+        "y": 537
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 779,
+        "y": 522
+    },
+    "topRight": {
+        "x": 783,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 783,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 779,
+        "y": 537
+    }
+},
+{
+    "text": "16.50",
+    "topLeft": {
+        "x": 791,
+        "y": 522
+    },
+    "topRight": {
+        "x": 836,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 836,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 791,
+        "y": 537
+    }
+},
+{
+    "text": "FACE",
+    "topLeft": {
+        "x": 843,
+        "y": 522
+    },
+    "topRight": {
+        "x": 881,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 881,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 843,
+        "y": 537
+    }
+},
+{
+    "text": "DIA",
+    "topLeft": {
+        "x": 888,
+        "y": 522
+    },
+    "topRight": {
+        "x": 916,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 916,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 888,
+        "y": 537
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 917,
+        "y": 522
+    },
+    "topRight": {
+        "x": 921,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 921,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 917,
+        "y": 537
+    }
+},
+{
+    "text": "8.78",
+    "topLeft": {
+        "x": 927,
+        "y": 522
+    },
+    "topRight": {
+        "x": 962,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 962,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 927,
+        "y": 537
+    }
+},
+{
+    "text": "HUB",
+    "topLeft": {
+        "x": 970,
+        "y": 522
+    },
+    "topRight": {
+        "x": 1001,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 1001,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 970,
+        "y": 537
+    }
+},
+{
+    "text": "PILOT",
+    "topLeft": {
+        "x": 1007,
+        "y": 522
+    },
+    "topRight": {
+        "x": 1056,
+        "y": 522
+    },
+    "bottomRight": {
+        "x": 1056,
+        "y": 537
+    },
+    "bottomLeft": {
+        "x": 1007,
+        "y": 537
+    }
+},
+{
+    "text": "BRAKE",
+    "topLeft": {
+        "x": 676,
+        "y": 592
+    },
+    "topRight": {
+        "x": 726,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 726,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 676,
+        "y": 607
+    }
+},
+{
+    "text": "DRUM",
+    "topLeft": {
+        "x": 732,
+        "y": 592
+    },
+    "topRight": {
+        "x": 777,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 777,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 732,
+        "y": 607
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 779,
+        "y": 592
+    },
+    "topRight": {
+        "x": 783,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 783,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 779,
+        "y": 607
+    }
+},
+{
+    "text": "REAR",
+    "topLeft": {
+        "x": 790,
+        "y": 592
+    },
+    "topRight": {
+        "x": 830,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 830,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 790,
+        "y": 607
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 832,
+        "y": 592
+    },
+    "topRight": {
+        "x": 835,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 835,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 832,
+        "y": 607
+    }
+},
+{
+    "text": "16.5",
+    "topLeft": {
+        "x": 842,
+        "y": 592
+    },
+    "topRight": {
+        "x": 877,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 877,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 842,
+        "y": 607
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 885,
+        "y": 592
+    },
+    "topRight": {
+        "x": 900,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 900,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 885,
+        "y": 607
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 904,
+        "y": 592
+    },
+    "topRight": {
+        "x": 907,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 907,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 904,
+        "y": 607
+    }
+},
+{
+    "text": "X",
+    "topLeft": {
+        "x": 913,
+        "y": 592
+    },
+    "topRight": {
+        "x": 924,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 924,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 913,
+        "y": 607
+    }
+},
+{
+    "text": "7",
+    "topLeft": {
+        "x": 930,
+        "y": 592
+    },
+    "topRight": {
+        "x": 939,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 939,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 930,
+        "y": 607
+    }
+},
+{
+    "text": "IN",
+    "topLeft": {
+        "x": 946,
+        "y": 592
+    },
+    "topRight": {
+        "x": 962,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 962,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 946,
+        "y": 607
+    }
+},
+{
+    "text": ".",
+    "topLeft": {
+        "x": 965,
+        "y": 592
+    },
+    "topRight": {
+        "x": 968,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 968,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 965,
+        "y": 607
+    }
+},
+{
+    "text": "BALANCED",
+    "topLeft": {
+        "x": 976,
+        "y": 592
+    },
+    "topRight": {
+        "x": 1059,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 1059,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 976,
+        "y": 607
+    }
+},
+{
+    "text": ",",
+    "topLeft": {
+        "x": 1061,
+        "y": 592
+    },
+    "topRight": {
+        "x": 1065,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 1065,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 1061,
+        "y": 607
+    }
+},
+{
+    "text": "23K",
+    "topLeft": {
+        "x": 1072,
+        "y": 592
+    },
+    "topRight": {
+        "x": 1102,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 1102,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 1072,
+        "y": 607
+    }
+},
+{
+    "text": "AXLE",
+    "topLeft": {
+        "x": 1105,
+        "y": 592
+    },
+    "topRight": {
+        "x": 1146,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 1146,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 1105,
+        "y": 607
+    }
+},
+{
+    "text": "WEIGHT",
+    "topLeft": {
+        "x": 1152,
+        "y": 592
+    },
+    "topRight": {
+        "x": 1218,
+        "y": 592
+    },
+    "bottomRight": {
+        "x": 1218,
+        "y": 607
+    },
+    "bottomLeft": {
+        "x": 1152,
+        "y": 607
+    }
+},
+{"text":"RATING","topLeft":{"x":1224,"y":592},"topRight":{"x":1282,"y":592},"bottomRight":{"x":1282,"y":607},"bottomLeft":{"x":1224,"y":607}}]
+
+}
