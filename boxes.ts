@@ -24,7 +24,7 @@ client
         y: vertex.y
       }));
       return { text: description, 
-        topLeft: locations[0], // Top-left vertex
+        topLeft: locations[0],
         topRight: locations[1],
         bottomRight: locations[2],
         bottomLeft: locations[3],
