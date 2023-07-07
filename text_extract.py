@@ -30,4 +30,4 @@ def detect_text(path):
         )
 
 if __name__ == "__main__":
-    detect_text('resources/wakeupcat.jpg')
+    detect_text('resources/image1_edit.png')
