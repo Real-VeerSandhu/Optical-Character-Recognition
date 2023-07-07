@@ -33,8 +33,22 @@ client
         // Bottom-right vertex
         // Bottom-left vertex
     });
-    console.log(textsWithBoundingBoxes);
+    console.log(typeof textsWithBoundingBoxes);
+
+    // save textsWithBoundingBoxes as JSON
+    // const dictstring = JSON.stringify(textsWithBoundingBoxes);
+    // fs.writeFile("output.json", dictstring, (err) => {
+    // if (err) {
+    //     console.error(err);
+    //     return;
+    // }
+    // console.log("File has been successfully saved.");
+    // });
+
+    
   })
   .catch(err => {
     console.error('Error performing OCR:', err);
   });
+
+
