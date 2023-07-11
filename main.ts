@@ -1,4 +1,4 @@
-// Label Detection
+// Label Detection (General)
 
 async function quickstart() {
   const vision = require('@google-cloud/vision');
