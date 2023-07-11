@@ -25,5 +25,3 @@ console.log('result: ', r);
     console.log('error: ', e);
     
 });
-
-
