@@ -51,4 +51,3 @@ client
     console.error('Error performing OCR:', err);
   });
 
-
