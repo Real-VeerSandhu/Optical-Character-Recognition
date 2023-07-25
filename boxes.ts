@@ -50,4 +50,3 @@ client
   .catch(err => {
     console.error('Error performing OCR:', err);
   });
-
