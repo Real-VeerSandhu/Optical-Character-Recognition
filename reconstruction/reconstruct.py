@@ -3,8 +3,6 @@ import json
 # Opening JSON file
 f = open('output.json')
 
-# returns JSON object as
-# a dictionary
 data = json.load(f) # data['data] len: 59
 
 # Iterating through the json
