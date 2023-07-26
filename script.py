@@ -3,6 +3,9 @@
 import os
 from google.cloud import vision
 
+def get_vision(id: int):
+    return id 
+
 def run_quickstart() -> vision.EntityAnnotation:
     """Provides a quick start example for Cloud Vision."""
 
