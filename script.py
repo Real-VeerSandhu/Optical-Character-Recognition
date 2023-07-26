@@ -9,6 +9,8 @@ def get_vision(id: int):
 def run_quickstart() -> vision.EntityAnnotation:
     """Provides a quick start example for Cloud Vision."""
 
+    id = get_vision(324)
+
     # Instantiates a client
     client = vision.ImageAnnotatorClient()
 
