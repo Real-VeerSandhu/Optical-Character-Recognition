@@ -25,7 +25,7 @@ def run_quickstart() -> vision.EntityAnnotation:
     print("Labels:")
     for label in labels:
         print(label.description)
-        print()
+        print('')
 
     return labels
 
