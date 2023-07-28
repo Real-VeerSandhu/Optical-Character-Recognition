@@ -7,7 +7,6 @@ async function extract_text(filePath) {
   
     const [result] = await client.textDetection(filePath);
     const detections = result.textAnnotations;
-    // console.log('Text:');
 
     return detections
 }
