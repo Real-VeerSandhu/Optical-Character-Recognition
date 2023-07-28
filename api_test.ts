@@ -10,7 +10,6 @@ async function extract_text(filePath) {
     // console.log('Text:');
     // detections.forEach(text => console.log(text));
 
-
     return detections
 }
 
