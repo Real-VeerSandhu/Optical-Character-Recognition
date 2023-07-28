@@ -7,7 +7,7 @@ async function quickstart() {
 
   const [result] = await client.labelDetection('./resources/image1_edit.png');
   const labels = result.labelAnnotations;
-  console.log('Labels:');
+  console.log('Labels: ');
   labels.forEach(label => console.log(label.description));
 }
 
