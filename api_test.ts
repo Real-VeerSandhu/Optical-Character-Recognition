@@ -11,7 +11,6 @@ async function extract_text(filePath) {
     return detections
 }
 
-// boundingPoly
 
 extract_text('./resources/image1_edit.png')
 .then(r => {
