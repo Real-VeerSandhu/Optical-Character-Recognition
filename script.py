@@ -34,5 +34,6 @@ def run_quickstart() -> vision.EntityAnnotation:
 
     return labels
 
+
 if __name__ == "__main__":
     run_quickstart()
