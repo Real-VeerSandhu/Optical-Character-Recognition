@@ -11,7 +11,6 @@ async function extract_text(filePath) {
     return detections
 }
 
-
 extract_text('./resources/image1_edit.png')
 .then(r => {
 console.log('result: ', r);
