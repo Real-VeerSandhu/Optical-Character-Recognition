@@ -45,7 +45,6 @@ client
     console.log("File has been successfully saved.");
     });
 
-    
   })
   .catch(err => {
     console.error('Error performing OCR:', err);
