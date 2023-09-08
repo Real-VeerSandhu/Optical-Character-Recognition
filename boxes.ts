@@ -6,8 +6,6 @@ const fs = require('fs');
 const client = new vision.ImageAnnotatorClient();
 const imageFile = fs.readFileSync('./resources/image2.png');
 
-
-
 client
   .textDetection({
     image: { content: imageFile },
